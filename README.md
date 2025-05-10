@@ -1,3 +1,5 @@
+(LUNA is not being worked on or updated anymore)
+
 # LUNA Tenshi
 
 Welcome! LUNA is a friendly and conversational AI chatbot designed to run in the Windows powershell terminal. LUNA is not desighned to be informative at all, and is not super advanced Be patient, Luna is still in early development. Now With Splash Text! (See wiki for screenshots)
