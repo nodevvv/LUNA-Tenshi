@@ -1,4 +1,4 @@
-(LUNA is not being worked on or updated anymore)
+(LUNA is not being updated anymore, i dont know if its just for me but luna no loger is working. it used to, i diddnt even change anything.)
 
 # LUNA Tenshi
 
