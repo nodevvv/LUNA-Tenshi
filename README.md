@@ -44,7 +44,7 @@ If you have any ideas it is greatly appreciated to share them [Here](https://git
 - Luna should Launch as expected
 
 # Additional = + = + = + = + = + = + = + = + 
-The main branch are all my projects files not intened for use just for viewing. If you want to become a contributor or an alpha tester you can reach me on Discord, just add me. Username: @ok.zero. Luna's responses can be directly misleading, so fact-check important information. If you notice Luna repeating phrases, these are usually pre-programmed responses, but not allways, Luna sometimes takes the traning data literally and so will sometimes get confused. (Luna May Not work as expected on windows 11 or older versions)
+The main branch are all my projects files not intened for use just for viewing. If you want to become a contributor or an alpha tester you can reach me on Discord, just add me. Username: ".nodev." Luna's responses can be directly misleading, so fact-check important information. If you notice Luna repeating phrases, these are usually pre-programmed responses, but not allways, Luna sometimes takes the traning data literally and so will sometimes get confused. (Luna May Not work as expected on windows 11 or older versions)
 
 **Alternative Launch:**
 
